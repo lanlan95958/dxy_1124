@@ -33,3 +33,4 @@ driver.find_element_by_id("emailB").send_keys("123@qq.com")
 
 time.sleep(3)
 driver.quit()
+time.sleep(10)
